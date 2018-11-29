@@ -19,5 +19,4 @@ export class Exercice1Component implements OnInit {
 
   ngOnInit() {
   }
-
 }
